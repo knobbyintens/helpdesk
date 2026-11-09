@@ -20,3 +20,4 @@ rule wins.
 After handling the individual tickets, open one new issue in this repository titled
 `Weekly triage digest - <date>` that lists the escalated ticket ids and the
 escalated / closed / monitored counts.
+
